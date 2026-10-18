@@ -13,6 +13,7 @@
   ],
   "order": 40,
   "icon": "❝",
+  "dock": true,
   "type": "widget",
   "desc": "钉住的一句 + 一库句子，随机抽",
   "first": 30,
